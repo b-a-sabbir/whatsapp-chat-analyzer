@@ -7,6 +7,3 @@ wordcloud
 emoji
 banglish_stopwords
 urlextract
-collections
-re
-nltk.corpus
